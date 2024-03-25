@@ -30,7 +30,7 @@ export class SurveyService {
         secure: true,
         auth: {
           user: 'binteoysha@gmail.com',
-          pass: 'piqg xfsh tbum wdmg',
+          pass: 'Your Password',
         },
       });
 
